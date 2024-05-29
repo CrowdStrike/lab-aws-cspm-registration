@@ -25,9 +25,11 @@ For more info, see [API clients](https://falcon.crowdstrike.com/documentation/pa
 - [Chapter 2 - Using the cspm-registration API](guide/chapter2.md)
 - [Chapter 3 - Guided Registration via Falcon Console](guide/chapter3.md)
 - [Chapter 4 - Using a Custom template](guide/chapter4.md)
-- [Chapter 5 - CSPM Architecture](guide/chapter5.md)
-- [Chapter 6 - Organization Registration](guide/chapter6.md)
-- [Chapter 7 - Multiple Account Registration](guide/chapter7.md)
+- [Chapter 5 - Using a Custom Template for GovCloud Falcon](guide/chapter5.md)
+- [Chapter 6 - CSPM Architecture](guide/chapter6.md)
+- [Chapter 7 - Organization Registration](guide/chapter7.md)
+- [Chapter 8 - Multiple Account Registration](guide/chapter8.md)
+- [Chapter 9 - Cleanup](guide/chapter9.md)
 
 ### Questions or concerns?
 If you encounter any issues or have questions about this repository, please open an [issue]().
