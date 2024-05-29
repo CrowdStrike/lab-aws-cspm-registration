@@ -32,4 +32,4 @@ For more info, see [API clients](https://falcon.crowdstrike.com/documentation/pa
 - [Chapter 9 - Cleanup](guide/chapter9.md)
 
 ### Questions or concerns?
-If you encounter any issues or have questions about this repository, please open an [issue]().
+If you encounter any issues or have questions about this repository, please open an [issue](https://github.com/CrowdStrike/lab-aws-cspm-registration/issues).
